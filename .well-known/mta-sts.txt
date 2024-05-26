@@ -1,5 +1,5 @@
       version: STSv1
       mode: testing
-      mx: aiscs.solutions
-      mx: aiscs.solutions
+      mx: in1-smtp.aiscs.solutions
+      mx: in2-smtp.aiscs.solutions
       max_age: 604800
