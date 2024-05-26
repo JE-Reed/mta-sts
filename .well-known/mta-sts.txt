@@ -1,0 +1,5 @@
+      version: STSv1
+      mode: testing
+      mx: aiscs.solutions
+      mx: aiscs.solutions
+      max_age: 604800
