@@ -1,5 +1,5 @@
       version: STSv1
       mode: testing
-      mx: in1-smtp.aiscs.solutions
-      mx: in2-smtp.aiscs.solutions
+      mx: mail.protonmail.ch
+      mx: mailsec.protonmail.ch
       max_age: 604800
